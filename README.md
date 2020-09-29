@@ -9,5 +9,5 @@ wikipedia,
 webbrowser,
 pyttsx3
 
-download python 3.7 initially
+initially download python 3.7 & 
 i have used spyder as text editor
