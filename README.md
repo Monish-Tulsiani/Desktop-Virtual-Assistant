@@ -3,13 +3,10 @@ This is a desktop virtual assistant named "Larry". Its coded in python
 
 Install necessary libraries from command line using pip.
 Libraries Used :-
-speech_recognition 
-playsound    
-gtts import gTTS   
-wolframalpha (solving mathematical problems )
-selenium  
-wikipedia 
-webbrowser
+speech_recognition,wolframalpha (solving mathematical problems ),
+selenium,  
+wikipedia, 
+webbrowser,
 pyttsx3
 
 download python 3.7 initially
